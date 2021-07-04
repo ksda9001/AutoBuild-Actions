@@ -19,9 +19,6 @@ Firmware-Diy() {
 	d-team_newifi-d2)
 		:
 	;;
-	x86_64)
-		:
-	;;
 	*)
 		:
 	esac
